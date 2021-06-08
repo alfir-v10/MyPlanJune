@@ -38,5 +38,18 @@
   * [minishell - Мануал от @avivien & @wpersimm](https://www.notion.so/minishell-avivien-wpersimm-33e4caf714b746678701ff7b6d0955fa)
 
 ## June, 11
+  
+  ### [Математическая статистика](https://stepik.org/course/326/syllabus)
+  * [Краткий обзор понятий теории вероятностей](https://stepik.org/lesson/49999/step/1?unit=28547)
+  
+  ### [Машинное обучение (курс лекций, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_(%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9,_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2))
+  * Основные понятия и примеры прикладных задач
+    * [Презентация](http://www.machinelearning.ru/wiki/images/f/fc/Voron-ML-Intro-slides.pdf)
+    * [Лекция](https://www.youtube.com/watch?v=thrPR77K-os&ab_channel=MachineLearning)
+    * [Практика](https://www.youtube.com/watch?v=bJVI5AIback&ab_channel=MachineLearning)
+  
+  ### [DS Python Pool]
+   * Пройти Day00
+   * Пройти Day01
 
 ## June, 12
