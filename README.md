@@ -2,6 +2,7 @@
 
 CS:
   * [Algorithm from LeetCode](https://leetcode.com/problemset/algorithms/)
+  * [New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
   * [CodeWars](https://www.codewars.com/kata/search/python?q=&&beta=false&order_by=rank_id%20desc)
   * [Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus)
   * [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/syllabus)
