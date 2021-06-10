@@ -5,7 +5,7 @@
   * [Домашнее задание](https://contest.yandex.ru/contest/27393/enter/)
   
   ### [Minishell](https://www.notion.so/coding_wiki-1d8b8bc675f5426db90a02dd22324ac8)
-  * [minishell - Лекция от @imicah](https://www.notion.so/minishell-imicah-a341793fc312485b90020fe950f6d5df)
+  - [x] * [minishell - Лекция от @imicah](https://www.notion.so/minishell-imicah-a341793fc312485b90020fe950f6d5df)
   * Coding Minishell
   * 
 ## June, 11 Thursday
