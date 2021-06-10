@@ -1,5 +1,5 @@
 
-## June, 9  Wednesday
+## June, 10  Wednesday
   ### [Алгоритмы Яндекс](https://yandex.ru/yaintern/algorithm-training)
   * [Сложность, тестирование, особые случаи](https://youtu.be/QLhqYNsPIVo)
   * [Домашнее задание](https://contest.yandex.ru/contest/27393/enter/)
@@ -8,7 +8,7 @@
   * [minishell - Лекция от @imicah](https://www.notion.so/minishell-imicah-a341793fc312485b90020fe950f6d5df)
   * Coding Minishell
   * 
-## June, 10 Thursday
+## June, 11 Thursday
   
   ### [Основы реляционной модели и SQL](https://stepik.org/course/63054/syllabus)
   * [Отношение (таблица)](https://stepik.org/lesson/297508/step/1?unit=279268) 
@@ -50,7 +50,7 @@
   * [minishell - Мануал от @avivien & @wpersimm](https://www.notion.so/minishell-avivien-wpersimm-33e4caf714b746678701ff7b6d0955fa)
   * Coding Minishell
   
-## June, 11 Friday
+## June, 12 Friday
   
   ### [Математическая статистика](https://stepik.org/course/326/syllabus)
   * [Краткий обзор понятий теории вероятностей](https://stepik.org/lesson/49999/step/1?unit=28547)
@@ -79,7 +79,7 @@
   ### [Minishell](https://www.notion.so/coding_wiki-1d8b8bc675f5426db90a02dd22324ac8)
    * [minishell - Лекция по termcap от @sgertrud](https://www.notion.so/minishell-termcap-sgertrud-dcc3fcbae6d14d24bb3fb50e1b5a04b9)
 
-## June, 12 Saturday
+## June, 13 Saturday
   ### [Математика для анализа данных (2020)](https://cloud.mail.ru/public/2rUz/5cgTLD9km/)
   * [Векторы](https://cloud.mail.ru/public/2rUz/5cgTLD9km/%5Bslivysklad.com%5D%201.%20%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0.%20%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B/)
   * [Матрицы](https://cloud.mail.ru/public/2rUz/5cgTLD9km/%5Bslivysklad.com%5D%202.%20%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0.%20%D0%9C%D0%B0%D1%82%D1%80%D0%B8%D1%86%D1%8B/)
